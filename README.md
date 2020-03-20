@@ -55,3 +55,12 @@ tambien puedes usar codigo limpio `codigo limpio`asi
 
 
 
+| Primera columna | segunda columna | tercera columna | 
+
+
+
+| -- | -- | --|
+
+| Contenido 1-1 | Contenido 1-2 | Contenido 1-3 |
+
+

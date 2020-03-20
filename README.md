@@ -42,17 +42,6 @@ ___ Esto es una separacion
 
   esto es codigo
   
-~~~~
-esto es codigo
-de varias
-lines
-en total
-yupi 
-  
-
-tambien puedes usar codigo limpio `codigo limpio`asi
-~~~
-
 
  | Primera columna | segunda columna | tercera columna | 
 | -- | -- | --|

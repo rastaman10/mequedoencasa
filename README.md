@@ -50,9 +50,8 @@ en total
 yupi 
   
 
-tambien puedes usar codigo limpio `codigo limpio`asi 
-
-
+tambien puedes usar codigo limpio `codigo limpio`asi
+~~~
 
 
  | Primera columna | segunda columna | tercera columna | 
